@@ -1,0 +1,14 @@
+{
+  "name": "go_kafka",
+  "version": "1.0.0",
+  "description": "kafka-websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Philote": "git+https://github.com/pote/philote-js.git"
+  }
+}
